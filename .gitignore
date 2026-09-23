@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated crawler output
+musinsa_images/
+*.csv
+*.xlsx
+
+# Local / editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Saved third-party pages
+*.html
